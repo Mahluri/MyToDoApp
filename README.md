@@ -30,6 +30,9 @@ _A web based to-do list application made using HTML, CSS & JS._
 
   ![image](https://github.com/Mahluri/MyToDoApp/assets/83395475/83147cbd-d6d6-4043-9be5-84b6f6001381)
 
+# Run the application
+
+Download the zip file of the project and save to a local folder. Proceed by opening the index file and Enjoy. Thank You!
 
 
 
